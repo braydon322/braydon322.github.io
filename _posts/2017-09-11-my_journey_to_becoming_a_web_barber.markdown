@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "My Journey To Becoming A Web Barber."
-date:   2017-09-11 08:06:57 +0000
+date:   2017-09-11 04:06:58 -0400
 ---
 
 
 I've always been heavily involved with technology. 
 
-Throughout the years, my dad's professional life has been predominantly filled with positions in the Technology Realm. Growing up, I remember him working for Cisco for 10+ years. He has held a few positions before and in between, including being the CEO of a small startup. Currently he is one step short of a Director at Mozilla. His life has definitely had a huge impact on my knowledge of technology. Hearing his stories developed this innate desire to want to experience and be exposed to any kind of technology in whatever way possible.
+As I look back over the years, there is one person specifically that I have to thank. My father. From the day I was born, my dad's professional life has been predominantly filled with positions in the Technology Realm. Growing up, I remember him working for Cisco for 10+ years. He has held a few positions before and in between, including being the CEO of a small startup. Currently he is one step short of a Director at Mozilla. His life has definitely had a huge impact on my knowledge of technology. Hearing his projects, and what his daily work grind consisted of somehow activated this innate desire to want to experience and be exposed to any kind of technology in whatever way possible for myself.
 
-My ability to understand devices, and ideas of how technology worked started at a young age because of him. I remember disassembling electronics, intrigued by certain connections and being so interested in finding out how everything was working. I would look up tutorials on how to make gadgets and cool 'toys' with old household electronics including burning lasers from old DVD burners or Projectors made out of those old Ghetto Overhead Projectors we are all so familiar with from our high school days. It seemed to just be apart of me. 
+From a young age I seemed to be intrigued with any and all devices that I could get my hands on. My ability to understand these devices, and what powered them started at a young age because of him. I remember disassembling electronics, intrigued by certain internal components and being so interested in finding out how everything worked. I would look up tutorials on how to make gadgets and cool 'toys' with old household electronics including burning lasers from old DVD burners or Projectors made out of those old Ghetto Overhead Projectors we are all so familiar with from our high school days. It seemed to just be apart of me. 
 
 Rewind 10+ years from today and you'll find me sitting in a computer lab at Macquarie University, Sydney, Australia - at around 12 years old. I had been selected to be apart of what they called back then, a GATE(Gifted and Talented Education) program. This was a program designed for the fair few in our grade who seemed to excel in certain areas. We linked up with the others selected by their individual schools and were thrown together in a 3 day mini-course at the local Uni. I forgot exactly everything that was taught, but there is one thing that has never left my side. 
 
@@ -25,8 +25,8 @@ I soon found myself in the principle's office time and time again for pranking m
 
 Amidst the middle of this, my family and I moved to the Silicon Valley. I was now in the heart of it all.  The desire began to grow and I continued to learn more and more. I got heavily involved in sports and became pretty well rounded. I took a few AP Classes in High School including AP Computer Science and 2D Design, allowing me to feed both beasts at the same time. I continued to better myself in both designing and coding. I then graduated, and attended Brigham Young University for a few years. I studied Computer Science for some time, before switching majors to Graphic Design. I was now sure I was wanting to pursue something with a little of both.
 
-I am now pursuing both of these subjects as a Designer and a Developer - or as I like to say, as a Web Barber.
+I am now pursuing becoming both a Designer and a Developer - or what I like to call, a Web Barber.
 
-I have seen hundreds of websites lacking in both functionality and design and it is my goal to change that. A bad haircut is pretty bad, but a bad looking website is even worse.
+I have seen hundreds of websites lacking in both functionality and design and it is my goal to change that. It is time to freshen up all these old dirty haircuts.
 
 Thank You Flatiron.
