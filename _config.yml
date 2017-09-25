@@ -1,0 +1,21 @@
+# Site settings
+title: VERSATILIDAD
+header-img: img/home-bg.png
+email: braydonwhitmarsh@me.com
+copyright_name: braydon322
+description: > # this means to ignore newlines until "baseurl:"
+  Life as a Web Barber, Husband, and Father.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: therealbwzy
+github_username:  braydon322
+learn_profile: braydon322
+email_username: braydonwhitmarsh@me.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
