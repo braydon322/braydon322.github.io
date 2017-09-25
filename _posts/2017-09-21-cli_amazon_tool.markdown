@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CLI Amazon Tool"
-date:   2017-09-21 03:56:27 +0000
+date:   2017-09-20 23:56:28 -0400
 ---
 
 
@@ -21,12 +21,12 @@ After selecting the category, a user then sees the top 3 best sellers of that ca
 
 At first they will see name & price, and then if wanted, a user can select to see more info on the product.
 
-Upon that selection, a user will not have access to the star rating, a clickable product url, in addition to the name and price.
+Upon that selection, a user will then have access to the star rating, a clickable product url, in addition to the name and price.
 
-The concept of the program is very simple in the fact that it eliminates the need to have to visit the Amazon website in order to find the bestsellers.
+The concept of the program is very simple in the fact that it eliminates the need to have to visit the Amazon website in order to find the bestsellers - scraping is done in the background, providing the user with the details up front.
 
 In the future I'll be adding many more features, including a review generator, which I have almost completed.
 
-I thoroughly enjoyed the project, and am looking forward to adding more as I continue to learn and experiment with OO & the CLI. It would be awesome if I could turn my app into one containing a GUI rather than a CLI.
+I thoroughly enjoyed the project, and am looking forward to adding more as I continue to learn and experiment with OO & the CLI. It would be awesome if I could put this together with a GUI rather than a CLI.
 
 Maybe in the near future.
